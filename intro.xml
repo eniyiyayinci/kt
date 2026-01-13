@@ -1,0 +1,27 @@
+
+<VAST version="4.0" xmlns="http://www.iab.com/VAST">
+  <Ad id="1" sequence="1">
+    <InLine>
+      <AdSystem version="2.0">Ad_System</AdSystem>
+      <AdTitle>Prime</AdTitle>
+      <Description>Prime</Description>
+      <Error><![CDATA[]]></Error>
+      <Creatives>
+        <Creative id="1">
+          <Linear skipoffset="00:00:05">
+            <Duration>00:00:12</Duration>
+            <VideoClicks>
+              <ClickThrough><![CDATA[https://primeaffiliates1.com/register/47013]]></ClickThrough>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile id="1" delivery="progressive" type="video/mp4" bitrate="500" width="640" height="360" mimeType="video/mp4">
+                <![CDATA[https://cdn.jsdelivr.net/gh/lookatusdoweneedu/v/preroll-prime.mp4]]>
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+
+</VAST>
